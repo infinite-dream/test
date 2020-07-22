@@ -1,0 +1,23 @@
+header{
+    background-color:#D3D3D3;
+}
+h1{
+    color:#FFFFFF;
+    font-variant:small-caps;
+    text-align:center;
+}
+h2{
+    color:	#000080;
+    font-variant:small-caps;
+}
+section{
+    background-color:#A9A9A9;
+}
+main a{
+         background:#D5D5D5;
+	color:#000000;
+	font-family:Arial,"Times New Roman";
+	  display:none;
+    visibility:visible;
+}
+
